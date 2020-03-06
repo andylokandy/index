@@ -8,4 +8,5 @@ If you want to learn more about package indices, see [Documentation](https://elb
 
 ## All Packages
 
-{#package-list#}
+- `statebox/idris-ct 0.1.0` *no description* @[andylokandy](https://github.com/andylokandy)
+
