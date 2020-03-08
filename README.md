@@ -8,6 +8,6 @@ If you want to learn more about package indices, see [Documentation](https://elb
 
 ## All Packages
 
-- [`marcesquerra/idristest 0.1.4`](https://github.com/marcesquerra/IdrisTest) *A testing framework for idris* [@marcesquerra](https://github.com/marcesquerra)
+- [marcesquerra/idristest 0.1.4](https://github.com/marcesquerra/IdrisTest) *A testing framework for idris* [@marcesquerra](https://github.com/marcesquerra)
 - `statebox/idris-ct 0.1.0` *no description* [@andylokandy](https://github.com/andylokandy)
 
